@@ -60,7 +60,7 @@ namespace Program
             else
             {
                 Node newNode = new Node(value);
-                newNode.next = previous.next.next;
+                newNode.next = previous.next;
                 previous.next = newNode;
 
                 //solution 2
@@ -192,10 +192,10 @@ namespace Program
             list.insertAtEnd(200);
             list.insertAtEnd(300);
             list.insertAtEnd(400);
+            list.insertAfter(100, 150);
+           Console.WriteLine(list.Count());
 
-            Console.WriteLine(list.Count());
             list.printLinkedList();
-
             list.insertAtEnd(500);
             list.insertAtEnd(600);
             list.printLinkedList();

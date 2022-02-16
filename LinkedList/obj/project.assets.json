@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\Data_Structure\\Linked-List\\LinkedList\\LinkedList\\LinkedList.csproj",
+      "projectUniqueName": "E:\\Data_Structure\\Singly-LinkedList-Implementation\\LinkedList\\LinkedList.csproj",
       "projectName": "LinkedList",
-      "projectPath": "E:\\C#\\Data_Structure\\Linked-List\\LinkedList\\LinkedList\\LinkedList.csproj",
+      "projectPath": "E:\\Data_Structure\\Singly-LinkedList-Implementation\\LinkedList\\LinkedList.csproj",
       "packagesPath": "C:\\Users\\Islam Farhat\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\Data_Structure\\Linked-List\\LinkedList\\LinkedList\\obj\\",
+      "outputPath": "E:\\Data_Structure\\Singly-LinkedList-Implementation\\LinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Islam Farhat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

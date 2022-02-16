@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6NVH4NizsPodhbj9zMVdnS+/UbNnTySNBk8GP9ZGH7nNIT/GtLI6z6OpDoYig9I2nt3fQhaaqiHK4e3lvd02NQ==",
+  "dgSpecHash": "gMOpbxB4Nzw26ELB+nVGwn/GRbPJSeap41LWVIE/BsRjin62IW8XChSRlkqwQdo6WKnjTj3UBVJ8+qeoumYKiQ==",
   "success": true,
-  "projectFilePath": "E:\\C#\\Data_Structure\\Linked-List\\LinkedList\\LinkedList\\LinkedList.csproj",
+  "projectFilePath": "E:\\Data_Structure\\Singly-LinkedList-Implementation\\LinkedList\\LinkedList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
